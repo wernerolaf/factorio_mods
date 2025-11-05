@@ -1,0 +1,20 @@
+{
+  "name": "military-modpack",
+  "version": "1.0.0",
+  "title": "Military Challenges Pack",
+  "author": "Esnos",
+  "factorio_version": "2.0",
+  "description": "Perfect combo of fun military challenges",
+  "dependencies": [
+    "invisible-biters-challenge",
+    "sniper-worm",
+    "geneva-challenge",
+    "Noxys_Swimming",
+    "night-challenge",
+    "DarkNight",
+    "entrenched-enemies",
+    "?intelligent-enemy",
+    "?RampantFixed"
+  ]
+}
+

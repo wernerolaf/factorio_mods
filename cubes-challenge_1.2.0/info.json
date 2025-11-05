@@ -1,0 +1,12 @@
+{
+  "name": "cubes-challenge",
+  "version": "1.2.0",
+  "title": "Cubes Challenge",
+  "author": "Esnos",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "description": "This mod gives special cubes which cannot be crafted but are input and output of multiple items recipes. Cubium graphics taken from Cubium mod by ZDK, 2025. Inspired by mod Ultracube: Age of Cube by grandseiken.",
+  "dependencies": [
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "geneva-challenge",
+  "version": "1.0.0",
+  "title": "Weapon Ban Challenge",
+  "author": "Esnos",
+  "description": "Disables all weapons which usage could be considered a warcrime. Bans mines, combat drones, laser and flamethrower turrets, nukes and gas weapons.",
+  "factorio_version": "2.0",
+  "dependencies": []
+}

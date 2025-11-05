@@ -1,0 +1,10 @@
+Version: 1.0.1
+Date: 18. 10. 2025
+  Changes:
+    - small fixes, now using data-final-fixes to handle mods changing tech trees, recipes with circular dependencies skipped correcting locale in settings, more edge cases in recipe filtering.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 17. 10. 2025
+  Changes:
+    - First version
+---------------------------------------------------------------------------------------------------

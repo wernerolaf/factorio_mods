@@ -1,0 +1,9 @@
+{
+  "name": "pole-range-challenge",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "title": "Pole Range Challenge",
+  "author": "Esnos",
+  "description": "Sets all electric‐pole wire connection range to 1 (or 0) for a tougher game. Similar to mod Wireless Challenge by trold",
+  "dependencies": []
+}

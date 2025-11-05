@@ -1,0 +1,9 @@
+{
+    "name":"invisible-train-challenge",
+    "version": "1.0.0",
+    "title": "Invisible train challenge",
+    "author": "Esnos",
+    "factorio_version": "2.0",
+    "dependencies": [],
+    "description": "This mod make trains invisible. Code was based on work of Bilka."
+}

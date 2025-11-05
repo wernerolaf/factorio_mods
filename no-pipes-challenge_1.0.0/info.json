@@ -1,0 +1,9 @@
+{
+  "name": "no-pipes-challenge",
+  "version": "1.0.0",
+  "title": "No Pipes / No Tanks Challenge",
+  "author": "Esnos",
+  "description": "Disables all pipes and storage tanks. Players must use barrels for fluid handling! Similar to mod Barrels O' Fun! (No pipes allowed) by ief.",
+  "factorio_version": "2.0",
+  "dependencies": []
+}

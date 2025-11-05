@@ -1,0 +1,9 @@
+{
+    "name":"pollution-summon-challenge",
+    "version": "1.0.1",
+    "title": "Pollution summon challenge",
+    "author": "myname",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "This mod spawn an Devour of Spaghetti when pollution is too high. Warnings will be diplayed in the chat."
+}

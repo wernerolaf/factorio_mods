@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version 1.1.0
+Date: 28. 9. 2025
+  Features:
+    - added settings for more customization
+---------------------------------------------------------------------------------------------------
+Version 1.0.0
+Date: 3. 5. 2025
+  Features:
+    - Tested to work with space age harvesters, trees are removed without giving results, but Gleba yumako trees work correctly.
+---------------------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+{
+    "name":"invisible-biters-challenge",
+    "version": "1.0.0",
+    "title": "Invisible biters challenge",
+    "author": "Esnos",
+    "factorio_version": "2.0",
+    "dependencies": [],
+    "description": "This mod makes biters invisible and untargetable. They must be revealed by special radar. Radar graphics taken from Radar MK2 and MK3 mod by KEPLER."
+}

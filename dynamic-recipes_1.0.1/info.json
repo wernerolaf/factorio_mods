@@ -1,0 +1,10 @@
+{
+  "name": "dynamic-recipes",
+  "version": "1.0.1",
+  "title": "Dynamic Recipe Randomizer",
+  "author": "Esnos",
+  "factorio_version": "2.0",
+  "description": "Randomizes recipes every minute during gameplay dynamically.",
+  "dependencies": ["base >= 2.0", "?cubes-challenge"]
+}
+
